@@ -99,7 +99,7 @@ h5 {
 .showCase {
     grid-area: showCase;
     min-height: 400px;
-    background: url(img/banner.jpg);
+    background: url(Img/banner.jpg);
     background-size: cover;
     background-position: center;
     padding: 3rem;
